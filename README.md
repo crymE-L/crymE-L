@@ -8,7 +8,7 @@ I'm a full-stack developer and entrepreneur. Currently, I am improving my softwa
 
 * 🌍  I'm based in Porto, Portugal
 * ✉️  You can contact me at [gustavolima.contacto@gmail.com](mailto:gustavolima.contacto@gmail.com)
-* 🧠  I'm learning react and AI-related stuff
+* 🧠  I'm learning React for full stack development and AI-related stuff
 
 ### Skills
 
