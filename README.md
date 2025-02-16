@@ -4,7 +4,7 @@ Hi 👋 My name is Gustavo Lima
 Developer
 ---------
 
-I'm a full-stack developer and entrepreneur. Currently, I am improving my software and AI skills so that I can impact the future and the world in a positive way.
+I'm a software engineer and entrepreneur. Currently, I am improving my software and AI skills so that I can impact the future and the world in a positive way.
 
 * 🌍  I'm based in Porto, Portugal
 * ✉️  You can contact me at [gustavolima.contacto@gmail.com](mailto:gustavolima.contacto@gmail.com)
